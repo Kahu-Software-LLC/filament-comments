@@ -10,6 +10,4 @@ return [
     'notifications.deleted' => 'Commentaire supprimé.',
 
     'modal.heading' => 'Commentaires',
-
-    'comments.delete.tooltip' => 'Supprimer le commentaire'
 ];
